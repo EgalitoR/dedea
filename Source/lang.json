@@ -1,0 +1,13 @@
+{
+	"en": {
+			
+		"ping": "Whoosh! The letter was sent in average of **%ping%ms**"
+	
+	},
+
+	"id": {
+
+		"ping": "Whoosh! Suratnya terkirim dalam jangka waktu **%ping%ms**"
+
+	}
+}

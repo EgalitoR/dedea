@@ -1,0 +1,21 @@
+{
+  "name": "Dedea",
+  "version": "1.0.0",
+  "description": "A multipurpose fun social bot for Discord.",
+  "main": "run.js",
+  "author": "Coddie Prince",
+  "keywords": "",
+  "license": "ISC",
+  "engines": { "node": "16.x" }, "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "dilog": "^0.0.1",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.5.0",
+    "simple-json-db": "^1.2.3"
+  },
+  "scripts": {
+    "deploy": "node ./Deployment/deploy.js",
+    "destroy": "node ./Deployment/destroy.js"
+  }
+}
