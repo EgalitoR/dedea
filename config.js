@@ -1,7 +1,7 @@
 module.exports = {
 
 	// Sensitive Area //
-	"token": "OTIxMTk0Nzg4OTE5ODQ5MDYw.YbvXgA.57S5xyxegW73QdwAInk_EG-uvM4",
+	"token": "OTIxMTk0Nzg4OTE5ODQ5MDYw.YbvXgA.Ua7V3-McWcuQZ3f8BiphxpaV_FM",
 	"clientId": "921194788919849060",
 
 	// Database Path //
